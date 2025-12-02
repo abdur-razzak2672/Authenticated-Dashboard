@@ -1,5 +1,10 @@
 # Next.js Authenticated Dashboard
 
+ Link : authenticated-dashboard.vercel.app
+ Credentials :-
+ Email : eve.holt@reqres.in 
+ Password : cityslicka
+
 # Installation & Run
 
 1. Copy environment example:
