@@ -1,9 +1,10 @@
 # Next.js Authenticated Dashboard
 
- Link : authenticated-dashboard.vercel.app
- Credentials :-
- Email : eve.holt@reqres.in 
- Password : cityslicka
+Live demo: https://authenticated-dashboard.vercel.app
+
+Credentials
+- Email: eve.holt@reqres.in
+- Password: cityslicka
 
 # Installation & Run
 
